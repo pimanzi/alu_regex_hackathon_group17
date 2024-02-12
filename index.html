@@ -44,31 +44,81 @@
       <div class="form">
         <h2>Discover your favorites</h2>
 
-        <input type="text" name="movies" placeholder="Enter Movie Title" />
+        <div>
+          <label for="movies">Movie Title</label>
+          <input type="text" name="movies" placeholder="Title (yyyy)""
+          id="movies" />
+        </div>
 
-        <input type="text" name="songLyrics" placeholder="Enter Song lyrics" />
+        <div>
+          <label for="lyrics">Song Lyrics</label>
+          <input
+            type="text"
+            name="songLyrics"
+            placeholder="[Verse X] some lyrics"
+            id="lyrics"
+          />
+        </div>
 
-        <input
-          type="text"
-          name="twitterNames"
-          placeholder="Enter twitter name"
-        />
+        <div>
+          <label for="twitter">Twitter Name</label>
+          <input
+            type="text"
+            name="twitterNames"
+            placeholder="@username"
+            id="twitter"
+          />
+        </div>
 
-        <input type="tel" name="isbnNumbers" placeholder="Enter ISBN numbers" />
+        <div>
+          <label for="isbn">ISBN numbers</label>
+          <input
+            type="tel"
+            name="isbnNumbers"
+            placeholder="ISBN xxx-x-xxx-xxxxx-x"
+            id="isbn"
+          />
+        </div>
 
-        <input type="text" name="jokes" placeholder="Jokes" />
+        <div>
+          <label for="jokes">Jokes</label>
+          <input
+            type="text"
+            name="jokes"
+            placeholder="Why did the ... ?Because..."
+            id="jokes"
+          />
+        </div>
 
-        <input
-          type="text"
-          name="tvEpisode"
-          placeholder="Enter tvEpisode title"
-        />
+        <div>
+          <label for="episode">Tv episode</label>
+          <input
+            type="text"
+            name="tvEpisode"
+            placeholder="Show Name SXXEXX:Title"
+            id="episode"
+          />
+        </div>
 
-        <input type="tel" name="dates" placeholder="Enter date" />
+        <div>
+          <label for="dates">Date</label>
+          <input type="tel" name="dates" placeholder="dd-MMM-yyyy" id="dates" />
+        </div>
 
-        <input type="text" name="hexColor" placeholder="Enter Hex Color Code" />
+        <div>
+          <label for="hex">Hex Color</label>
+          <input type="text" name="hexColor" placeholder="#XXXXXX" id="hex" />
+        </div>
 
-        <input type="tel" name="ipAddress" placeholder="Enter IP Address" />
+        <div>
+          <label for="ip">Ip Address</label>
+          <input
+            type="tel"
+            name="ipAddress"
+            placeholder="xxx.xxx.xxx.xxx"
+            id="ip"
+          />
+        </div>
 
         <button>Explore</button>
       </div>
