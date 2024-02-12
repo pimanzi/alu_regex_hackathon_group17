@@ -38,7 +38,7 @@ he image displays the console output following an incorrect input format that do
 
 ## How to access our solution
 
-Open your web browser and then copy and paste this link, [regex-hackthon-solution]()
+Open your web browser and then copy and paste this link, [regex-hackthon-solution](https://pimanzi.github.io/alu_regex_hackathon_group17/)
 
 ## Built with
 
