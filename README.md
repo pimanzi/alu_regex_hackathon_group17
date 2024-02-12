@@ -38,6 +38,8 @@ he image displays the console output following an incorrect input format that do
 
 ## How to access our solution
 
+Open your web browser and then copy and paste this link, [regex-hackthon-solution]()
+
 ## Built with
 
 1. Semantic HTML5 markup
