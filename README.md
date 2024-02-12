@@ -6,7 +6,7 @@
 
 - [Description](#description)
 - [Functionality Overview](#functionality-overview)
-- [How to access our solution](#how-to-access-our-solution)
+- [How to access our webpage](#how-to-access-our-webpage)
 - [Built with](#built-with)
 - [Authors](#authors)
 
@@ -36,7 +36,7 @@ The image illustrates that when you input a value in the wrong format, not match
 
 he image displays the console output following an incorrect input format that does not match the specified regular expression for a particular field. It reveals an error message indicating the incorrect format and promptly provides an example illustrating the correct formatting for the input.
 
-## How to access our solution
+## How to access our webpage
 
 Open your web browser and then copy and paste this link, [regex-hackthon-solution](https://pimanzi.github.io/alu_regex_hackathon_group17/)
 
