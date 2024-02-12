@@ -12,3 +12,10 @@ const patterns = {
 function validate(field, regex) {
    console.log('Field value:', field.value);
    console.log('Regex test result:', regex.test(field.value));
+
+
+
+	if (regex.test(field.value)) {
+       field.classList.remove("invalid");
+       field.classList.add("valid");
+    }
