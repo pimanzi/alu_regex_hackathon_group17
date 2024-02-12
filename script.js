@@ -1,3 +1,4 @@
+
 const inputs = document.querySelectorAll('input');
 const patterns = {
     movies: /^(.+\(\d{4}\))$/,
